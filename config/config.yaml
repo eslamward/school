@@ -1,0 +1,6 @@
+App:
+ Name : "School"
+
+Server:
+  Hsot : "localhost"
+  Port : "8080"
